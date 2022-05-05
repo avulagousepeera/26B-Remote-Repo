@@ -11,3 +11,6 @@ manoj
 naresh
 hussainsa
 akhil
+RGMCET
+SREC
+SVREC
